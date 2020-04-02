@@ -2,8 +2,6 @@
 
 ![](./images/custom-logo.png)
 
-[![Build Status](https://travis-ci.org/ericmjl/Network-Analysis-Made-Simple.svg?branch=master)](https://travis-ci.org/ericmjl/Network-Analysis-Made-Simple)
-
 GitHub repo for Network Analysis Made Simple with lots of additional material and notebooks
 
 > This material has been adapted from the tutorial Network Analysis Made Simple created by Eric J. Ma and Mridul Seth. The original material can be found at: https://github.com/ericmjl/Network-Analysis-Made-Simple/.
